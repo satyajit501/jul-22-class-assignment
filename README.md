@@ -1,1 +1,1 @@
-# jul-22-class-assignment
+# jul-22-class-assignment--python exercise
